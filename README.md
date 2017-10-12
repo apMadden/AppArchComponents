@@ -95,7 +95,6 @@ This project is intended to discover new ideas and libraries that could help in 
     * VectorDrawables
 * Consistent icons, preferably native to the platform.
 * Animation
-* Consistent and concise wording
 
 ## Experimental Libraries/Classes
 * Architecture Components (still in Alpha)
